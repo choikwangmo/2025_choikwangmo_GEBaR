@@ -875,3 +875,90 @@ POKism, 매력자본, 외모 베이스, 안정 신호, 우위 신호, 소방조�
 ---
 
 원하시면 제가 이 비교 분석을 더 확장해 **“능력주의 비판의 철학적 관점”**(예: 마이클 샌델, 한병철, U.G. 크리슈나무르티)까지 연결해서 정리해드릴 수도 있습니다. 그렇게 해드릴까요?
+
+
+
+
+좋습니다. 요청하신 대로 데이비드 브룩스가 「아이비리그가 미국을 망친 방식」에서 **사회 계급화**(American caste system) 부분을 묘사한 원문을 그대로 제시하고, 이어서 제가 이를 한국어로 상세히 풀어 서술해드리겠습니다.
+
+---
+
+## 원문 (The Atlantic, David Brooks, *How the Ivy League Broke America*, 2024.12)
+
+> **4. The meritocracy has created an American caste system. After decades of cognitive segregation, a chasm divides the well educated from the less well educated.**
+>
+> The average high-school graduate will earn about \$1 million less over their lifetime than the average four-year-college graduate. The average person without a four-year college degree lives about eight years less than the average four-year-college grad. Thirty-five percent of high-school graduates are obese, compared with 27 percent of four-year-college grads. High-school grads are much less likely to get married, and women with high-school degrees are about twice as likely to divorce within 10 years of marrying as women with college degrees. Nearly 60 percent of births to women with a high-school degree or less happen out of wedlock; that’s roughly five times higher than the rate for women with at least a bachelor’s degree. The opioid death rate for those with a high-school degree is about 10 times higher than for those with at least a bachelor’s degree.
+>
+> The most significant gap may be social. According to an American Enterprise Institute study, nearly a quarter of people with a high-school degree or less say they have no close friends, whereas only 10 percent of those with college degrees or more say that. Those whose education doesn’t extend past high school spend less time in public spaces, less time in hobby groups and sports leagues. They’re less likely to host friends and family in their home.
+>
+> The advantages of elite higher education compound over the generations. Affluent, well-educated parents marry each other and confer their advantages on their kids, who then go to fancy colleges and marry people like themselves. As in all caste societies, the segregation benefits the segregators. And as in all caste societies, the inequalities involve inequalities not just of wealth but of status and respect.
+>
+> The whole meritocracy is a system of segregation. Segregate your family into a fancy school district. If you’re a valedictorian in Ohio, don’t go to Ohio State; go to one of the coastal elite schools where all the smart rich kids are.
+>
+> It should be noted that this segregation by education tends to overlap with and contribute to segregation by race, a problem that is only deepening after affirmative action’s demise. Black people constitute about 14 percent of the U.S. population but only 9 percent of Princeton’s current freshman class, according to the school’s self-reported numbers, and only 3 percent of Amherst’s and 4.7 percent of Tufts’s, according to federal reporting guidelines. (Princeton has declined to reveal what that number would be based on those federal guidelines.) In the year after the Supreme Court ended affirmative action, MIT says that the number of Black people in its freshman class dropped from 15 percent to 5 percent.
+>
+> For the past 50 years or so, the cognitive elite has been withdrawing from engagement with the rest of American society. Since about 1974, as the Harvard sociologist Theda Skocpol has noted, college-educated Americans have been leaving organizations, such as the Elks Lodge and the Kiwanis Club, where they might rub shoulders with non-educated-class people, and instead have been joining groups, such as the Sierra Club and the ACLU, that are dominated by highly educated folks like themselves.
+>
+> “We now have a single route into a single dominant cognitive class,” the journalist David Goodhart has written. And because members of the educated class dominate media and culture, they possess the power of consecration, the power to determine what gets admired and what gets ignored or disdained. Goodhart notes further that over the past two decades, it’s been as though “an enormous social vacuum cleaner has sucked up status from manual occupations, even skilled ones,” and reallocated that status to white-collar jobs, even low-level ones, in “prosperous metropolitan centers and university towns.” This has had terrible social and political consequences.
+
+---
+
+## 해설 및 한국어 서술
+
+브룩스는 현대 미국 사회가 \*\*능력주의(meritocracy)의 발전 결과로 사실상의 ‘카스트 제도’\*\*를 갖게 되었다고 주장한다. 그의 설명을 정리하면 다음과 같다.
+
+### 1. 교육 수준에 따른 극심한 격차
+
+* 고등학교 졸업자와 4년제 대학 졸업자 사이에는 **평생 소득 약 100만 달러의 차이**가 존재한다.
+* 평균 수명도 대학 졸업자가 약 8년 더 길다.
+* 비만율, 결혼 및 이혼율, 혼외 출산율, 오피오이드 과다 복용 사망률 등 거의 모든 사회적·건강적 지표에서 교육 수준에 따라 심각한 차이가 난다.
+* 예컨대 고졸 이하 여성은 결혼 10년 이내 이혼 확률이 대졸 여성의 2배, 미혼모 출산율은 5배에 달한다. 오피오이드 사망률은 대학 졸업자보다 10배 높다.
+
+### 2. 사회적 고립
+
+* 교육 수준은 단순히 경제적 차이만이 아니라 **사회적 관계망의 두께**에도 큰 영향을 미친다.
+* 연구에 따르면 고졸 이하의 사람 중 약 25%가 “친한 친구가 없다”고 응답했는데, 이는 대학 졸업자 이상에서의 10%와 큰 차이를 보인다.
+* 고졸 이하 계층은 공공장소, 동호회, 스포츠 활동 등 사회적 공간 참여가 현저히 적고, 가정 내에서 친척이나 친구를 초대하는 빈도도 낮다.
+* 즉, 저학력 집단은 점점 더 **고립된 삶**을 살게 된다.
+
+### 3. 세대 간 재생산
+
+* 엘리트 대학 졸업자들은 같은 수준의 배우자와 결혼하고, 자녀에게도 그 혜택을 물려준다.
+* 자녀는 다시 명문대에 진학하고, 같은 엘리트 계층과 결혼하며, **계급적 구분이 대물림**된다.
+* 브룩스는 이것이 \*\*카스트 사회(caste society)\*\*의 전형적 구조라고 본다. 단순히 부의 불평등만이 아니라 **지위와 존중의 불평등**까지 포함하는 문제라는 것이다.
+
+### 4. 교육에 따른 인종적 분리 심화
+
+* 교육적 분리와 인종적 분리는 서로 겹쳐 강화된다.
+* 예를 들어 미국 전체 인구의 14%가 흑인임에도 불구하고, 프린스턴 신입생 중 흑인은 9%, 애머스트 3%, 터프츠 4.7%에 불과하다.
+* 2023년 대법원의 **소수자 우대(affirmative action) 금지 판결** 이후, MIT 신입생 흑인 비율은 15%에서 5%로 급락했다.
+* 이는 엘리트 교육 체제가 점점 더 **백인·아시아인 중심의 계급 재생산 장치**가 되고 있음을 보여준다.
+
+### 5. 인지 엘리트의 사회적 철수
+
+* 지난 50년간 고학력 엘리트 집단은 **비학력층과의 접촉을 점점 줄였다.**
+* 과거에는 엘크스 클럽, 키와니스 클럽 같은 시민 단체에서 서로 교류했지만, 오늘날 고학력자들은 시에라 클럽, ACLU 같은 **고학력자 중심 단체**로 몰려간다.
+* 결과적으로 **사회적 공통 기반이 붕괴**되고, 서로 다른 세계를 사는 듯한 계층 분리가 심화되었다.
+
+### 6. 문화적 권력의 독점
+
+* 영국 저널리스트 데이비드 굿하트의 분석에 따르면, 오늘날 **인지 엘리트가 문화와 미디어를 장악**해 “무엇이 존중받고, 무엇이 무시되는가”를 결정한다.
+* 지난 20년간 이들은 거대한 \*\*‘사회적 진공청소기’\*\*처럼 기능하여, 숙련된 노동직조차 지위를 잃게 만들고 그 지위를 도시의 화이트칼라 직업군으로 재배치했다.
+* 이로 인해 노동계급의 상대적 위상이 떨어지고, 정치적 불만과 사회 분열이 증폭되었다.
+
+---
+
+## 종합적 해석
+
+브룩스가 말하는 사회의 계급화는 단순한 경제적 양극화가 아니라 **교육을 매개로 한 전방위적 격차**이다.
+
+* 교육 수준은 **수명·건강·가정·사회적 관계**까지 결정짓는 요인이 되었다.
+* 엘리트 교육은 **세습적 계급 재생산 장치**로 굳어졌다.
+* 교육 분리는 인종적 분리와 겹쳐 더욱 심각한 사회적 불평등을 낳았다.
+* 결과적으로 인지 엘리트는 자신들만의 문화·네트워크를 형성하고, 사회 전체의 존중 구조와 가치체계마저 좌우하게 되었다.
+
+브룩스는 이를 “현대판 카스트 사회”라 부르며, 미국이 능력주의라는 이름으로 새로운 형태의 **폐쇄적 계급 체제**를 만들어냈다고 비판한다.
+
+---
+
+원하시면 제가 이 부분을 **표 형식**으로 정리해드릴 수도 있고, 또는 **한국 사회와 비교**해 확장 분석해드릴 수도 있습니다. 어느 쪽이 더 필요하신가요?
