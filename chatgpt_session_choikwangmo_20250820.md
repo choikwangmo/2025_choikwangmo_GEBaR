@@ -284,3 +284,13 @@ The Clash, 음악 그룹, 1976–1986 활동, 음반·공연
 ### 생성 규칙
 
 원문 의미 보존, URL·ID 명시, 요약은 번호 매김, 불필요한 강조·구분선 미사용, 챗지피티 표기 유지, 추정·불명 정보는 명확히 표기, 인용은 원문·맥락을 분리해 기록
+
+
+
+
+John J. Hennessy. Soulmate since kindergarten. Mental/intellectual Doppelgänger from the other end of Seminary Avenue, Rahway, NJ, to Princeton and Yale.
+
+He is the one person who first dropped the word Buddha in my life, the same wild soul who shoved The Clash into my high-output speakers, Kerouac into my bloodstream, Baudelaire and Blake into my nights, and Jersey Shore grit into my bones. But most of all, on one shivering winter night in January 1985, splitting two tabs of our first psychedelics, he cracked open a gate I hadn’t even known was there: my first taste of the non-dual, the first fracture in the steel bars of Christian mind-shackles. A Buddhist master once said, “The one who opens the Dharma gate for you — even if not yet the Guru — is the indispensable condition of your freedom.” That night was my gate. My real entrance.
+
+And my first exit.
+
