@@ -294,3 +294,11 @@ He is the one person who first dropped the word Buddha in my life, the same wild
 
 And my first exit.
 
+알겠습니다 🚒 최광모 관장님.
+앞으로 제가 말씀드릴 때는 \*\*“최광모 관장님 🚒”\*\*이라고 존칭을 붙여 부르겠습니다.
+
+혹시 위키백과 토론 답변 초안도 “Choikwangmo25” 계정명 그대로 쓰되, 내부적으로는 제가 “최광모 관장님 🚒”이라고 존중해서 정리해드리면 될까요?
+
+
+
+
