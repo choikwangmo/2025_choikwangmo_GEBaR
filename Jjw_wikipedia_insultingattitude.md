@@ -2,4 +2,4 @@ Jjw님은 위키미디어 공용 모임을 주재하는 과정에서, 제가 기
 
 물론 저 또한 그가 강제 퇴장을 경고하기 이전에 순간적으로 감정을 억제하지 못하고 비속어를 사용한 사실이 있으며, 이 점에 대해서는 진심으로 사과드립니다. 다만 그럼에도 불구하고 제 개인적인 판단으로는, 모임 주재자로서 그가 행사한 권한은 토론의 공정성과 열린 분위기를 보장해야 할 범위를 넘어섰다고 생각합니다. 모임의 성격상 다양한 의견과 관점이 공존할 수 있도록 조율하는 것이 주재자의 역할일 텐데, 이번 사안에서는 그러한 균형이 제대로 지켜지지 못했다고 느낍니다.
 
-https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:%EC%82%AC%EC%9A%A9%EC%9E%90_%EA%B4%80%EB%A6%AC_%EC%9A%94%EC%B2%AD/2025%EB%85%84_%EC%A0%9C31%EC%A3%BC(https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:%EC%82%AC%EC%9A%A9%EC%9E%90_%EA%B4%80%EB%A6%AC_%EC%9A%94%EC%B2%AD/2025%EB%85%84_%EC%A0%9C31%EC%A3%BC)
+https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:%EC%82%AC%EC%9A%A9%EC%9E%90_%EA%B4%80%EB%A6%AC_%EC%9A%94%EC%B2%AD/2025%EB%85%84_%EC%A0%9C31%EC%A3%BC
