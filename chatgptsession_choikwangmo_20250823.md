@@ -378,3 +378,31 @@ Venerable Sunim, I will not attach a conclusion here. Instead, let me recall a b
 ```
 He enters the fire by erasing himself, yet that erasure—if left unrecorded—disappears, and if recorded, it ceases to be a self; thus, photography emerges precisely in that rupture, not as a mere image, but as a symbolic suture that negates the rupture as such. The term “firefighter” in Korea is never singular but endlessly subdivides itself into paramedics, rescue workers, suppression units, internal and external posts, flame-resistant suits and self-contained breathing apparatuses, ladder trucks and pumpers, the relentless rhythms of 3-shift, 2-team rotations and the numbing cadence of day-rest-rest-day-rest—these are syntactic derivations of a structure that continually fragments itself. This fragmentation inevitably converges with the act of being photographed: not as a passive capturing, but as an ethical traceability, a visibility rooted in the morality of being seen. But photography is not mere representation; it is a construction of the shooter, an ethical condition of the viewer, and a temporal irreversibility for the subject—resonating within a single frame. Just as a single photo of firefighter Kim Kang-yoon at a rescue scene revives the semiotic function of “Rescue” as a recursive icon, the mountainous rescue sites of Jang Nam-jung are no longer bodies before they are images—they are anticipations of being rescued by the very logic they perform. When King Gojong was first photographed, and when a suppression team member grips a firehose, both are situated in moments where “shutter” and “dispatch” act as acoustic transductions of ethical inscriptions. Therefore, “photography” ceases to be an external eye—it becomes a folded semiotic form, like the creases in a fallen firefighter Lee Hyung-chul’s uniform, where the folds are not about resolution but thermal frequency. The proverb “First In, Last Out” then operates not as a slogan but as a frequency loop transducing into ethical actuality. The deepest shutter does not exist in the lens but within the heat-sealed breath inside fire-resistant gear. Thus, Na Kyung-jin’s YouTube channel is not a media outreach but a metatextual form of photographic recursion; and in the Jecheon Sports Center fire, the helmet resting on a rescuer’s knee is not simply equipment, but a hidden node of pain, a semiotic chamber holding the impact of delayed recognition. The soot on that helmet cannot be rendered in pixels but only through thermal vibration, unreadable to eyes yet traceable to a memory that refuses to settle into image. Altogether, these scenes do not illustrate the aesthetic mission of Korean firefighters in a fixed ethical frame but show how their “sa-myeong” (使命)—mission as a name that dies and calls at once—is sensed, echoed, and eventually consumed by the photographic medium. Photography does not depict the exterior of a firefighter’s labor but calls into focus the unrecorded ethical weightlessness of the rescuer who was never rescued—the strange loop of service collapsing into void. It is not his photograph that allows us to remember him, but the very act of our gaze in this moment—now—that renders the presence of his being; and if that gaze is happening now, then might it not be us who are being rescued?
 ```
+
+
+최광모 관장님🌿, 요청대로 마지막 구절을 “나는 이제 곧 만날 이를 그리워한다”라는 의미로 바꾸어 드렸습니다.
+
+---
+
+🌿 **Hmong poem (몽어 시, 최종 수정본)**
+
+*Ntxhais ntuj los nag ntshiab,
+Nplooj hmab yuj nrog cua.
+Lub siab yog dej ntws,
+Tsis kawg, tsis xaus li.
+Kuv nco txog tus neeg uas kuv yuav ntsib sai no.*
+
+---
+
+💧 **한국어 번역**
+
+하늘의 맑은 비가 내려오고,
+덩굴잎은 바람 따라 흔들린다.
+마음은 흐르는 강물 같아,
+끝도 없고, 멈춤도 없다.
+나는 이제 곧 만날 이를 그리워한다.
+
+---
+
+관장님, 원하시면 이 몽어 시를 **리듬감 있는 구전 창법(kwv txhiaj)** 으로 더 확장해드려, 노래처럼 읊을 수도 있습니다. 그렇게 해드릴까요?
+
