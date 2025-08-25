@@ -93,3 +93,67 @@ Mit freundlichen Grüßen
 </body>
 </html>
 ```
+
+
+```
+{{인물 정보
+| honorific_prefix          = 
+| name                      = 옌스 슈티겔
+| honorific_suffix          = 
+| native_name               = Jens Stiegel
+| native_name_lang          = de
+| image                     = 
+| image_upright             = 
+| landscape                 = 
+| alt                       = 
+| caption                   = 
+| pronunciation             = 
+| birth_name                = Jens Stiegel
+| birth_date                = 
+| birth_place               = 독일 만하임
+| nationality               = 독일
+| citizenship               = 독일
+| education                 = 다름슈타트 공과대학교 (Diplom, 건축·소방방재 전공)
+| alma_mater                = 다름슈타트 공과대학교
+| occupation                = 소방관<br>재난관리 전문가
+| years_active              = 1991년 – 현재
+| employer                  = 만하임 소방·재난관리부
+| organization              = 만하임 소방·재난관리부<br>프랑크푸르트 소방당국<br>유럽 소방장협회(F.E.U.)<br>독일 소방방재협회(VFDB)
+| title                     = 만하임 소방·재난관리부 부서장 (Deputy Chief of Department)
+| term                      = 2022년 – 현재
+| known_for                 = 만하임 및 프랑크푸르트 소방 교육훈련<br>국제 소방 협력 활동<br>Live Fire Training 전문성
+| notable_works             = 국제 소방교관 워크숍(2018) 강연<br>소방 교육 전문성 연구(2012) 발표
+| predecessor               = 
+| successor                 = 
+| spouse                    = 
+| signature                 = 
+| website                   = https://fsri.org/jens-stiegel
+| footnotes                 = 
+| english_name              = Jens Stiegel
+}}
+
+'''옌스 슈티겔'''({{lang|en|Jens Stiegel}})은 독일의 소방관이자 재난관리 전문가로, 현재 만하임 소방·재난관리부의 부서장을 맡고 있다. 약 30년 이상의 경력을 보유한 그는 프랑크푸르트 소방당국 산하 소방·구급 아카데미 부서장을 역임한 뒤 2022년부터 만하임 소방본부 부서장으로 임명되었다.<ref name="metropol">Metropolnews, "Führungswechsel bei der Feuerwehr Mannheim," 28. Februar 2022, https://www.metropolnews.info/mp533306/mannheim-fuehrungswechsel-bei-der-feuerwehr-mannheim.</ref> 그는 소방 전략·전술 기획, 현장 작전 지휘, 소방훈련 아카데미 운영을 총괄하며, 국제 소방 협력에서도 활발히 활동하고 있다.
+
+== 생애 ==
+슈티겔은 만하임에서 태어나 지역 의용소방대에서 봉사하며 소방 활동을 시작했다. 1991년 만하임 북부 의용소방대에 가입한 후 부지대장(1997), 지대장(2004)을 역임하며 2021년까지 약 30년간 봉사했다. 직업 소방관 임명 후에는 명예 의용소방대장으로 추대되었다.<ref name="viernheim">Viernheim Online, "Mannheim: Jens Stiegel zum Ehrenabteilungskommandanten ernannt," 2. Juni 2022, https://viernheim-online.de/wordpress/mannheim-jens-stiegel-zum-ehrenabteilungskommandanten-ernannt/.</ref>  
+
+그는 다름슈타트 공과대학교에서 건축·소방방재 분야를 전공하며 학위를 취득했고, 고위 소방공무원 양성과정을 수료했다. 이를 바탕으로 프랑크푸르트 소방 아카데미에서 1,800명 이상의 소방·구급 인력 교육을 담당했으며, 2018년 신축된 FRTC 훈련센터의 기획과 운영을 주도했다.<ref name="fr">Frankfurter Rundschau, "Es ist wie im richtigen Leben," 2019, https://www.fr.de/frankfurt/richtigen-leben-11271643.amp.html.</ref>
+
+국제적으로는 유럽 소방장협회(F.E.U.) 독일 대표 위원으로 활동하고 있으며, UL 산하 FSRI 전문가 네트워크에도 참여하고 있다.<ref name="fsri">UL Fire Safety Research Institute, "Jens Stiegel," Zugriff am 25. August 2025, https://fsri.org/jens-stiegel.</ref> 또한 2018년 스웨덴 레빙에에서 열린 국제 소방교관 워크숍(IFIW)에서 강연을 했으며, 2012년에는 소방 교육 교관 전문성 연구를 학술 논문으로 발표했다.
+
+== 수상 ==
+* 바덴뷔르템베르크주 소방공로훈장 은장 (2017)<ref name="morgen">Mannheimer Morgen, "Seltene Auszeichnung für Jens Stiegel," 7. Juni 2022, https://www.mannheimer-morgen.de/orte/mannheim_artikel,-mannheim-seltene-auszeichnung-fuer-jens-stiegel-_arid,1959055.html.</ref>
+* 만하임 북부 의용소방대 명예지휘관 추대 (2022)<ref name="viernheim"/>
+
+== 각주 ==
+{{각주}}
+
+{{전거 통제}}
+{{위키데이터 속성 추적}}
+
+[[분류:생년 미상]]
+[[분류:살아있는 사람]]
+[[분류:독일의 소방]]
+[[분류:만하임 출신]]
+[[분류:프랑크푸르트 출신]]
+```
