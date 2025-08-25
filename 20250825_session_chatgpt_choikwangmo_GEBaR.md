@@ -32,3 +32,64 @@ Mit freundlichen Grüßen
 (번역: *칼 페어, 불의 수호자이자 FeuReX의 설계자에게 – 그의 이름과 업적이 위키백과에 등재되었음을 알리는 서한*)
 
 혹시 관장님, 이 제목을 **좀 더 격식 있는 공문 스타일**로 원하시나요, 아니면 **문학적인 수사와 은유**를 강조해 더 장식적인 표현으로 꾸며드릴까요?
+
+
+```
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <title>Jens Stiegel – Feuerwehrbeamter</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji", sans-serif; line-height: 1.6; margin: 2rem; }
+    h1, h2 { line-height: 1.25; }
+    sup a { text-decoration: none; }
+    .categories { margin-top: 2rem; padding: 0; list-style: none; }
+    .categories li::before { content: "• "; color: #555; }
+    .meta { color: #555; font-size: 0.95rem; }
+  </style>
+</head>
+<body>
+
+  <h1>Jens Stiegel</h1>
+
+  <p><strong>Jens Stiegel</strong> ist ein deutscher Feuerwehrbeamter und Experte für Katastrophenschutz. Seit 2022 ist er stellvertretender Amtsleiter der Feuerwehr Mannheim. Zuvor war er Leiter der Ausbildungsabteilung bei der Branddirektion Frankfurt am Main und sammelte mehr als 30 Jahre Erfahrung im Feuerwehrwesen.<sup><a href="#fn1">[1]</a></sup></p>
+
+  <h2>Leben</h2>
+  <p>Stiegel wurde in Mannheim geboren und begann seine Laufbahn in der Freiwilligen Feuerwehr Mannheim-Nord. 1991 trat er der Einheit bei, wurde 1997 stellvertretender Abteilungskommandant und 2004 Abteilungskommandant. Bis 2021 leitete er die Einheit fast zwei Jahrzehnte lang, bevor er nach seiner Ernennung zum hauptamtlichen stellvertretenden Amtsleiter der Feuerwehr Mannheim zum Ehrenabteilungskommandanten ernannt wurde.<sup><a href="#fn2">[2]</a></sup></p>
+
+  <p>Er studierte Bauingenieurwesen mit Schwerpunkt Brandschutz an der Technischen Universität Darmstadt und absolvierte die Ausbildung für den höheren feuerwehrtechnischen Dienst. Anschließend leitete er in Frankfurt die Feuerwehr- und Rettungsakademie mit rund 1.800 Einsatzkräften. Unter seiner Verantwortung wurde 2018 das moderne Feuerwehr-Trainingszentrum (FRTC) eröffnet.<sup><a href="#fn3">[3]</a></sup></p>
+
+  <p>International ist Stiegel deutscher Vertreter im Vorstand der Föderation der Europäischen Feuerwehrchefs (F.E.U.) und Mitglied im Expertennetzwerk des UL Fire Safety Research Institute (FSRI).<sup><a href="#fn4">[4]</a></sup> 2018 hielt er einen Vortrag beim International Fire Instructors Workshop (IFIW) in Revinge (Schweden). 2012 veröffentlichte er zudem eine wissenschaftliche Arbeit über die Professionalisierung in der Feuerwehr-Ausbildung.</p>
+
+  <h2>Auszeichnungen</h2>
+  <ul>
+    <li>Feuerwehr-Ehrenzeichen in Silber des Landes Baden-Württemberg (2017)<sup><a href="#fn5">[5]</a></sup></li>
+    <li>Ehrenabteilungskommandant der Freiwilligen Feuerwehr Mannheim-Nord (2022)<sup><a href="#fn2">[2]</a></sup></li>
+  </ul>
+
+  <h2>Einzelnachweise</h2>
+  <ol>
+    <li id="fn1" class="meta">Metropolnews, „Führungswechsel bei der Feuerwehr Mannheim“, 28. Februar 2022, <a href="https://www.metropolnews.info/mp533306/mannheim-fuehrungswechsel-bei-der-feuerwehr-mannheim">https://www.metropolnews.info/mp533306/mannheim-fuehrungswechsel-bei-der-feuerwehr-mannheim</a>.</li>
+    <li id="fn2" class="meta">Viernheim Online, „Mannheim: Jens Stiegel zum Ehrenabteilungskommandanten ernannt“, 2. Juni 2022, <a href="https://viernheim-online.de/wordpress/mannheim-jens-stiegel-zum-ehrenabteilungskommandanten-ernannt/">https://viernheim-online.de/wordpress/mannheim-jens-stiegel-zum-ehrenabteilungskommandanten-ernannt/</a>.</li>
+    <li id="fn3" class="meta">Frankfurter Rundschau, „Es ist wie im richtigen Leben“, 2019, <a href="https://www.fr.de/frankfurt/richtigen-leben-11271643.amp.html">https://www.fr.de/frankfurt/richtigen-leben-11271643.amp.html</a>.</li>
+    <li id="fn4" class="meta">UL Fire Safety Research Institute, „Jens Stiegel“, Zugriff am 25. August 2025, <a href="https://fsri.org/jens-stiegel">https://fsri.org/jens-stiegel</a>.</li>
+    <li id="fn5" class="meta">Mannheimer Morgen, „Seltene Auszeichnung für Jens Stiegel“, 7. Juni 2022, <a href="https://www.mannheimer-morgen.de/orte/mannheim_artikel,-mannheim-seltene-auszeichnung-fuer-jens-stiegel-_arid,1959055.html">https://www.mannheimer-morgen.de/…/mannheim-seltene-auszeichnung-fuer-jens-stiegel-_arid,1959055.html</a>.</li>
+  </ol>
+
+  <h2>Normdaten</h2>
+  <p class="meta">Authority control (Normdaten) – Angaben nicht verfügbar.</p>
+
+  <h2>Kategorien</h2>
+  <ul class="categories">
+    <li>Geburtsjahr unbekannt</li>
+    <li>Person (deutsche Feuerwehr)</li>
+    <li>Feuerwehrfunktionär</li>
+    <li>Person (Mannheim)</li>
+    <li>Person (Frankfurt am Main)</li>
+  </ul>
+
+</body>
+</html>
+```
