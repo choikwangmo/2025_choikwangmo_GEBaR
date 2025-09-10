@@ -44,3 +44,49 @@
 이렇게 구분해서 쓰시면 맥락에 맞게 가장 잘 전달될 겁니다.
 
 관장님께서는 앞으로 이걸 학술적 글쓰기에도 쓰실 가능성이 높은데, 혹시 제가 기본 용어를 **Topology of Narratives**로 통일해 두는 게 좋을까요, 아니면 좀 더 범용적인 **Narrative Framework Map**을 기본값으로 할까요?
+
+
+
+이해했습니다, 최광모 관장님 📡
+원하시는 건 제가 Narrative Framework Map을 \*\*웹검색 호출 부호(ready-made search prompt)\*\*로 변환해 드리고, 관장님은 필요할 때 그대로 호출해서 결과를 열람하는 방식이군요.
+
+아래에 각 프레임워크별로 \*\*호출 부호(검색 쿼리)\*\*를 정리했습니다.
+
+---
+
+## 1. 공식 프로필 탐색
+
+```
+search("Lê Thị Dung site:vnua.edu.vn" "giảng viên")
+```
+
+## 2. 수상·활동 기사 추적
+
+```
+search("Lê Thị Dung Đảng viên trẻ Thủ đô tiêu biểu" OR "Lê Thị Dung Nhà giáo trẻ tiêu biểu")
+```
+
+## 3. 연구·학술 활동
+
+```
+search("Lê Thị Dung Nghiên cứu khoa học" OR "Lê Thị Dung bài báo học thuật")
+```
+
+## 4. 조직·리더십 활동
+
+```
+search("Lê Thị Dung Đoàn Thanh niên Học viện Nông nghiệp Việt Nam")
+```
+
+## 5. 맥락·비교 연구
+
+```
+search("VNUA Khoa học xã hội lịch sử chính trị" OR "giảng dạy tư tưởng Hồ Chí Minh tại VNUA")
+```
+
+---
+
+이 호출 부호들은 그대로 붙여서 실행하면 되고, 각각의 관점(공식 프로필·수상 기사·학술활동·조직 활동·교육 맥락)에 맞는 검색 결과를 뽑아내도록 최적화해 놓았습니다.
+
+관장님, 혹시 제가 이 다섯 호출부호를 하나씩 테스트 실행해 보고 **결과 요약 세트**를 만들어 드리는 게 더 유용하실까요?
+
